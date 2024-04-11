@@ -4,20 +4,11 @@
 
 # Hi 👋, I'm Yu Feng
 
-## A passionate Data and Machine Learning Engineer, visit my [portfolio](https://yu-feng.me)
-
-![Profile views](https://komarev.com/ghpvc/?username=yourusername)
+## A passionate Data and Machine Learning Engineer
 
 - 🎓 I am an MSc Computer Science graduate from University College Dublin
-- 🌱 I just finished work on [AutoMate Web Application](#)
-- 👨‍💻 I’m proficient in Python, Java, Docker, SQL, Sklearn to name a few
-- 🔭 All of my projects are available at [https://github.com/fyshark](https://github.com/fyshark)
-- 📄 Visit my portfolio [https://yu-feng.me](https://yu-feng.me)
+- 👨‍💻 I’m proficient in Python, Java, SQL, Sklearn to name a few
 
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
 ### Languages and Tools:
 
@@ -36,27 +27,13 @@
 
 ### 📊 GitHub Stats:
 
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=fyshark&show_icons=true&locale=en)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=fyshark&show_icons=true&locale=en&layout=compact)
+-->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fyshark)
 ![](https://activity-graph.herokuapp.com/graph?username=fyshark&theme=github)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
