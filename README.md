@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 # Hi 👋, I'm Chenwei
 
 ## A passionate Data and Machine Learning Engineer
